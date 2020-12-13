@@ -1,0 +1,6 @@
+test/
+*.csv
+*.ipynb
+*.png
+*.jpg
+*.jpeg
